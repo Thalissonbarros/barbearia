@@ -1,2 +1,2 @@
-# barbearia
+# barbearia.github.io
 web site
